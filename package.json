@@ -1,0 +1,23 @@
+{
+  "name": "com.wtfgames.hephaestus.analytics",
+  "version": "0.0.1",
+  "displayName": "Hephaestus Analytics",
+  "description": "Hephaestus Analytics is a part of the Hephaestus Core framework that helps operate with analytics.",
+  "unity": "2019.2",
+  "keywords": [
+    "unity",
+    "mobile",
+    "framework",
+    "analytics"
+  ],
+  "author": {
+    "name": "WTFGames",
+    "email": "serhii.chechui@gmail.com",
+    "url": "https://github.com/serhii-chechui/HephaestusAnalytics"
+  },
+  "dependencies": {
+    "com.wtfgames.hephaestus.core": "0.0.1"
+  }
+}
+        
+        
